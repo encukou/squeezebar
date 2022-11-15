@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "/home/pviktori/dev/squeezebar/brain/footprints")(options "")(descr ""))
+)
